@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PieChartDemoApp</string>
+    <string name="show_me_piechart">Show Me PieChart</string>
+    <string name="show_me_barchart">Show Me BarChart</string>
+</resources>
