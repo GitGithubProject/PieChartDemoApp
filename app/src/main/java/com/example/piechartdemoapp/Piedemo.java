@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.widget.ProgressBar;
 
 import com.github.mikephil.charting.charts.PieChart;
 import com.github.mikephil.charting.data.PieData;
@@ -15,6 +16,7 @@ import java.util.ArrayList;
 
 public class Piedemo extends AppCompatActivity {
 
+    private ProgressBar spinner;
     PieChart pieChart;
 
     @Override

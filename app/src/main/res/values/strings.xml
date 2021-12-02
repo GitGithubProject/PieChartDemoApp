@@ -2,4 +2,6 @@
     <string name="app_name">PieChartDemoApp</string>
     <string name="show_me_piechart">Show Me PieChart</string>
     <string name="show_me_barchart">Show Me BarChart</string>
+    <string name="start_spinner">Start Spinner</string>
+    <string name="stop_spinner">Stop Spinner</string>
 </resources>

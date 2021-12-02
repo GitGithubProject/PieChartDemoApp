@@ -19,7 +19,7 @@ public class BarChartApp extends AppCompatActivity {
     BarChart barChart;
 
     // variable for our bar data data
-    BarData barData;
+    BarData barData;//use to grouping the data set from entry to chart
 
     // variable for our bar data set
     BarDataSet barDataSet;
